@@ -1,0 +1,14 @@
+.button {
+  background-color: #000;
+  color: #fff;
+}
+
+.other {
+  background-color: rgb(255, 255, 0);
+}
+
+.button,
+.other {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
